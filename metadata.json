@@ -1,0 +1,6 @@
+{
+  "name": "QR Club Attendance",
+  "description": "A dynamic QR-based automatic attendance check-in system for college clubs featuring real-time admin and student views.",
+  "requestFramePermissions": ["camera", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
